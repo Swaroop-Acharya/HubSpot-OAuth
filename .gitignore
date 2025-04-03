@@ -1,0 +1,17 @@
+# Ignore Python cache and environment files
+backend/__pycache__/
+backend/venv/
+.env
+*.env
+
+# Ignore frontend dependencies
+frontend/node_modules/
+
+# Ignore Redis dump file
+dump.rdb
+
+# Ignore log files
+*.log
+
+# Ignore VS Code settings (optional)
+.vscode/
