@@ -136,5 +136,6 @@ async def get_items_hubspot(credentials):
 
     # Convert to IntegrationItem format
     integration_items = await create_integration_item_metadata_object(contacts)
+    print(f"Integration Items: {integration_items}")
 
     return integration_items
