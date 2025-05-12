@@ -1,5 +1,5 @@
 
-# 🧩 VectorShift Integrations Technical Assessment
+# 🧩 VectorShift Oauth Integration
 
 This repository contains a full-stack project built as part of the VectorShift interview process. It demonstrates the integration of third-party services (specifically HubSpot) using OAuth2 with a **React frontend** and a **FastAPI backend**.
 
