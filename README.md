@@ -87,12 +87,6 @@ npm start
 
 ---
 
-## 📬 Contact
-
-For any issues or questions, reach out to: [recruiting@vectorshift.ai](mailto:recruiting@vectorshift.ai)
-
----
-
 ## 📝 Notes
 
 - You can optionally use your own Airtable and Notion credentials if you want to test those integrations.
